@@ -1,4 +1,4 @@
-class programe
+class hello
 {
   public staic void main(String args[])
   {
